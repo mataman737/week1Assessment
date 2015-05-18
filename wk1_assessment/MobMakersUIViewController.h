@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MobMakersUIViewController.h
 //  wk1_assessment
 //
 //  Created by Stephen T. Mata on 5/17/15.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UINavigationItem *navigation;
-
+@interface MobMakersUIViewController : UIViewController
 
 @end
-
